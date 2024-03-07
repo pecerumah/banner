@@ -62,7 +62,7 @@ function closeSwallFromAdClick() {
     await initBannerCss("https://banner-2ef.pages.dev/sweetalert2.min.css");
     Swal.fire({
         title: "",
-        html: `<img src="https://banner-2ef.pages.dev/open-slot-ads.jpg" />`,
+        html: `<img src="https://1.bp.blogspot.com/-nlqvvJ_JgBs/XlxgNLgcV8I/AAAAAAAAAbE/mwN5sLT7N-8iYjX3-JpPgoh28nlykIGlgCPcBGAYYCw/s320/3_3%2Bshopee%2Bmega%2Blogo.png" />`,
         showCloseButton: true,
         showCancelButton: false,
         focusConfirm: false,
