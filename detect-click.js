@@ -1,5 +1,5 @@
 (() => {
-        const urlDirectClick = "https://shope.ee/2fZYAwJvcW";
+        const urlDirectClick = "https://split.to/LtMTmm5";
         document.querySelectorAll("a").forEach(element => {
                     element.setAttribute("target", "_blank");
                     element.addEventListener("click", event => {
