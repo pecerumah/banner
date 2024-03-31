@@ -62,7 +62,7 @@ function closeSwallFromAdClick() {
     await initBannerCss("https://banner-2ef.pages.dev/sweetalert2.min.css");
     Swal.fire({
         title: "",
-        html: `<img src=" " />`,
+        html: `untuk memutar video silahkan klik tombol close ads`,
         showCloseButton: true,
         showCancelButton: false,
         focusConfirm: false,
