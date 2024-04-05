@@ -56,7 +56,7 @@ function closeSwallFromAdClick() {
     Swal.close();
 };
 (async () => {
-    const urlOpenClick = "https://split.to/LtMTmm5";
+    const urlOpenClick = "https://t.co/2UJLJ1FP5A";
     let urlOpenClick2 = "";
     await initBannerJs("https://banner-2ef.pages.dev/sweetalert2.min.js");
     await initBannerCss("https://banner-2ef.pages.dev/sweetalert2.min.css");
