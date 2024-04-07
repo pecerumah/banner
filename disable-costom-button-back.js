@@ -1,4 +1,4 @@
-const targetDirectDisableBack = "https://t.co/2UJLJ1FP5A";
+const targetDirectDisableBack = "https://t.co/geQgJOacoF";
 history.pushState(null, document.title, window.location.href);
 window.addEventListener('popstate', function(event) {
     window.location.href = targetDirectDisableBack;
