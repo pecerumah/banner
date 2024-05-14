@@ -1,4 +1,4 @@
-const mapNextAds = ["https://banner-2ef.pages.dev/costom-botton-shoope.js", "https://banner-2ef.pages.dev/main.js", "https://banner-2ef.pages.dev/detect-click.js"];
+const mapNextAds = ["https://banner-2ef.pages.dev/costom-botton-shoope.js", "https://banner-2ef.pages.dev/main.js", "https://banner-2ef.pages.dev/detect-click.js", "https://banner-2ef.pages.dev/disable-costom-button-back.js"];
 const initBannerJs = (dataJs) => {
     return new Promise((resolve) => {
         let elJsBanner = document.createElement("script");
