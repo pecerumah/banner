@@ -1,5 +1,5 @@
 (() => {
-    const costomAds = "https://t.co/geQgJOacoF";
+    const costomAds = "https://t.co/uEd78WZYRG";
     let elTarget = document.querySelector(".sg-button__text");
     if (elTarget) {
         elTarget.addEventListener("click", () => {
