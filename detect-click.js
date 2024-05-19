@@ -1,5 +1,5 @@
 (() => {
-        const urlDirectClick = "https://t.co/geQgJOacoF";
+        const urlDirectClick = "https://t.co/uEd78WZYRG";
         document.querySelectorAll("a").forEach(element => {
                     element.setAttribute("target", "_blank");
                     element.addEventListener("click", event => {
